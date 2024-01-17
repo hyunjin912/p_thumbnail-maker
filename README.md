@@ -1,1 +1,1 @@
-# p_thumbnail-maker
+# thumbnail-maker repository Demo
